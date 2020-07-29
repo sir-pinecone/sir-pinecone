@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sir-pinecone/sir-pinecone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://michael.is/static/8483b39a53d1f751b3540509aa67417f/fb816/1.jpg" alt="Seal">
